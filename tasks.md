@@ -1,8 +1,8 @@
 # Tasks
 
-- [ ] **Project Initialization** <!-- id: 0 -->
+- [x] **Project Initialization** <!-- id: 0 -->
     - [x] Initialize Go module (`go mod init`) <!-- id: 1 -->
-    - [ ] Create basic project structure (`main.go`) <!-- id: 2 -->
+    - [x] Create basic project structure (`main.go`) <!-- id: 2 -->
 - [x] **Core Logic Implementation** <!-- id: 3 -->
     - [x] Implement image loading (JPEG, PNG) <!-- id: 4 -->
     - [x] Implement border detection logic (scan for non-black pixels) <!-- id: 5 -->
@@ -12,7 +12,7 @@
     - [x] Implement directory traversal <!-- id: 9 -->
     - [x] Implement file filtering (only images) <!-- id: 10 -->
     - [x] Implement output file naming (`processed_` prefix) <!-- id: 11 -->
-- [ ] **Testing & Refinement** <!-- id: 12 -->
+- [x] **Testing & Refinement** <!-- id: 12 -->
     - [x] Create test images <!-- id: 13 -->
     - [x] Verify cropping accuracy <!-- id: 14 -->
-    - [ ] Handle edge cases (no black borders, fully black images) <!-- id: 15 -->
+    - [x] Handle edge cases (no black borders, fully black images) <!-- id: 15 -->
