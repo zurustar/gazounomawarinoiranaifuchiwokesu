@@ -12,6 +12,7 @@
     - [x] Implement directory traversal <!-- id: 9 -->
     - [x] Implement file filtering (only images) <!-- id: 10 -->
     - [x] Implement output file naming (`processed_` prefix) <!-- id: 11 -->
+    - [ ] Support extensionless image detection (MIME type check) <!-- id: 16 -->
 - [x] **Testing & Refinement** <!-- id: 12 -->
     - [x] Create test images <!-- id: 13 -->
     - [x] Verify cropping accuracy <!-- id: 14 -->
